@@ -21,7 +21,7 @@ graph LR
 ```
 
 
-1. Dynamic Model Recognition (Visual Assistance)
+## 1. Dynamic Model Recognition (Visual Assistance)
 Instead of interacting with game memory (Internal), the engine uses an External Pixel-Analysis Pipeline to identify distinct geometric shapes, character player models (Skins), and build structures unique to Fortnite's art style.
 <p align="center">
 
@@ -30,7 +30,7 @@ Instead of interacting with game memory (Internal), the engine uses an External 
 </p>
 Low-Latency Input Alignment Vector (Dynamic Tracking) Calculates the spatial discrepancy between the user's current camera vector and the detected target matrix. * **Humanized Smoothing:** Uses advanced Bezier curve interpolation to prevent robotic movements, emulating organic human input. * **FOV (Field of View) Zoning:** Allows users to define a strict pixel radius ($R_{fov}$) for tracking activation to prevent erratic shifts during rapid build-fights.
 
-Tactical Spatial Overlay (Augmented Reality HUD)
+## 2. Tactical Spatial Overlay (Augmented Reality HUD)
 Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
 
 Entity Telemetry: Displays bounding frames around detected player models.
