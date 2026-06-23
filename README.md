@@ -83,7 +83,7 @@ Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8010fb05-8e49-46cd-8c01-19ac96007c0a" />
 
 
----
+
 
 
 
@@ -96,7 +96,7 @@ Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference 
 
 ---
 
-<p align="center"><code>[Q]</code> <code>[U]</code> <code>[A]</code> <code>[N]</code> <code>[T]</code> <code>[U]</code> <code>[M]</code> <code>[V]</code> <code>[2]</code> — ⚡ A I . S Y N C E D .</p>
+`gameplay-analysis`, `fortnite-2026`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection`
 
 ---
 
