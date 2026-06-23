@@ -1,26 +1,46 @@
 
-> **Legal & Educational Disclaimer:** *This repository is maintained strictly for academic research, human-computer interaction analysis, and system accessibility purposes. It does not manipulate game memory, alter internal game files, or inject unauthorized code into any active game client. Users are responsible for complying with local platform End User License Agreements (EULA).*
-
 ---
 
 <!-- ПЛЕЙСХОЛДЕР ДЛЯ ВАШЕГО СКРИНШОТА ИНТЕРФЕЙСА -->
 <p align="center">
-<img width="1218" height="621" alt="image" src="https://github.com/user-attachments/assets/143315e7-c357-4e21-81b8-7056040fe3af" />  <img width="1221" height="614" alt="image" src="https://github.com/user-attachments/assets/cc4273f2-8e54-4a62-bcc6-5a15332de749" />
 
+<img width="1216" height="621" alt="image" src="https://github.com/user-attachments/assets/55ad55de-8d12-463b-8456-68107ef5cb61" />
 
 </p>
 
 ## ⚙️ Workflow Diagram
 ```mermaid
 graph LR
-    A[Launch Rust] --> B[Run Quantum Engine]
+    A[Launch Fortnite] --> B[Run NewEraAi Engine]
     B --> C{Load Config}
     C -->|Custom Matrix| D[Precision Vector Lock Enabled]
     C -->|Default Matrix| E[Balanced Kinematics Mode]
     D --> F[Active Spatial Analytics]
-    E --> F[Survival Combat]
+    E --> F[Go wins]
 
 ```
+
+
+1. Dynamic Model Recognition (Visual Assistance)
+Instead of interacting with game memory (Internal), the engine uses an External Pixel-Analysis Pipeline to identify distinct geometric shapes, character player models (Skins), and build structures unique to Fortnite's art style.
+<p align="center">
+
+<img width="1216" height="621" alt="image" src="https://github.com/user-attachments/assets/55ad55de-8d12-463b-8456-68107ef5cb61" />
+
+</p>
+Low-Latency Input Alignment Vector (Dynamic Tracking) Calculates the spatial discrepancy between the user's current camera vector and the detected target matrix. * **Humanized Smoothing:** Uses advanced Bezier curve interpolation to prevent robotic movements, emulating organic human input. * **FOV (Field of View) Zoning:** Allows users to define a strict pixel radius ($R_{fov}$) for tracking activation to prevent erratic shifts during rapid build-fights.
+
+Tactical Spatial Overlay (Augmented Reality HUD)
+Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
+
+Entity Telemetry: Displays bounding frames around detected player models.
+Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference points to assist players in managing weapon spread patterns during bloom-heavy Fortnite gunplay.
+<p align="center">
+
+<img width="1216" height="621" alt="image" src="https://github.com/user-attachments/assets/55ad55de-8d12-463b-8456-68107ef5cb61" />
+
+</p>
+
 # Rust-Quantum-v2-Next-Gen-AI-Assistant — Advanced AI Training Platform & Vision Assistant
 
 <p align="center">
